@@ -1,6 +1,10 @@
 class jSearch {
-    static filter(element,term)
+    static filter(element,term=false)
     {
+        event.preventDefault();
+        if(term === false){
+            term = event.target.value;
+        }
         const nodeList = document.querySelectorAll(element);
         term = this.removeSpecialChar(term);
 
