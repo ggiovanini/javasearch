@@ -10,14 +10,14 @@ Javascript Snippet for filter nodes html by input
 ```sh
 <input type="text" onkeyup="jSearch.filter('.listClass li');">
 <ul class="listClass">
-    <li>Teste A <span>12345</span></li>
-    <li>Não</li>
-    <li>Aténdimento</li>
-    <li>Teste D</li>
-    <li>Você</li>
-    <li>Asseçório</li>
-    <li>Teste G <span>12345X</span></li>
-    <li>Teste H</li>
-    <li>Teste I</li>
+    <li>Test A <span>12345</span></li>
+    <li>Not</li>
+    <li>Intention</li>
+    <li>Test D</li>
+    <li>Your</li>
+    <li>Test F</li>
+    <li>Test G <span>12345</span></li>
+    <li>Test H</li>
+    <li>Test I</li>
 </ul>
 ```
