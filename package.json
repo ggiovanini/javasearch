@@ -4,15 +4,15 @@
   "description": "Javascript Snippet for filter nodes html by input",
   "main": "jsearch.js",
   "dependencies": {
-    "@babel/polyfill": "^7.2.5",
+    "@babel/polyfill": "^7.7.0",
     "babel-core": "^6.26.3",
-    "uglifyjs-webpack-plugin": "^2.1.1"
+    "uglifyjs-webpack-plugin": "^2.2.0"
   },
   "devDependencies": {
-    "@babel/cli": "^7.2.3",
-    "@babel/core": "^7.2.2",
-    "@babel/preset-env": "^7.3.1",
-    "webpack": "^4.29.1"
+    "@babel/cli": "^7.7.7",
+    "@babel/core": "^7.7.7",
+    "@babel/preset-env": "^7.7.7",
+    "webpack": "^4.41.4"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
